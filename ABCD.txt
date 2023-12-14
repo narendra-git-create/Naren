@@ -1,4 +1,8 @@
 Hi This is my first git file
+
 Main - Edit1
 Main - Edit2
 Main - Edit3
+Branch 1 - Edit1
+Branch 1 - Edit2
+
